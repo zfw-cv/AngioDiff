@@ -2,7 +2,7 @@
 
 This repository provides the official PyTorch implementation of our model in the following papers:
 
-**[******](***)** <br/> 
+**[Angio-Diff: Learning a Self-Supervised Adversarial Diffusion Model for Angiographic Geometry Generation](***)** <br/> 
 [Zhifeng Wang](***), [Renjiao Yi](https://renjiaoyi.github.io/), [Xin Wen](***), [Chenyang Zhu](http://www.zhuchenyang.net/), [Kai Xu](https://kevinkaixu.net/), [Kunlun He](https://scholar.google.com/citations?user=31wT3skAAAAJ&hl=en) <br/>
 
 
